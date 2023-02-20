@@ -22,7 +22,8 @@ export default function Home({allPostsData}) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Trying out Nextjs</p>
+        <p>changing out to practice changes made to branch and 
+          create pull request to explore preview and deployment features of Nextjs</p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
